@@ -1,2 +1,2 @@
 my first readme
-my first git update
+my first readme update
